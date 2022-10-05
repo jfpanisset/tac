@@ -76,7 +76,7 @@ Each of the ASWF projects are open to participation by anyone subject to the gov
 Current Technical Projects are listed below.
 
 <!-- Embed list of all ASWF members -->  
-<iframe src="https://landscape.aswf.io/pages/hosted-projects" frameborder="0" id="landscape" scrolling="no" style="width: 1px; min-width: 100%; opacity: 1; visibility: visible; overflow: hidden; height: 1717px;"></iframe>
+<iframe src="https://landscape.aswf.io/pages/hosted-projects?style=body{background-color:white;}%23embedded-footer{display:none;}" frameborder="0" id="landscape" scrolling="no" style="width: 1px; min-width: 100%; opacity: 1; visibility: visible; overflow: hidden;"></iframe>
 <script src="https://landscape.aswf.io/iframeResizer.js"></script>
 
 
@@ -90,15 +90,15 @@ Working groups may be formed by the TAC to focus on specific areas of technical 
 
 ## Active
 
-- [Assets WG](https://wiki.aswf.io/display/ARW)
 - [CI Working Group](meetings/CI-workinggroup)
 - [Diversity and Inclusion Working Group](https://lists.aswf.io/g/diversity)
-- [Python 3 Working Group](https://github.com/AcademySoftwareFoundation/wg-python3)
 - [Rust Working Group](https://github.com/vfx-rs/organization)
 - [Universal Scene Description Working Group (USD WG)](https://wiki.aswf.io/display/WGUSD/USD+Working+Group)
 
 ## Archived
 
-_None_
+- [Assets WG](https://wiki.aswf.io/display/ARW)
+- [Python 3 Working Group](https://github.com/AcademySoftwareFoundation/wg-python3)
+
 
 
